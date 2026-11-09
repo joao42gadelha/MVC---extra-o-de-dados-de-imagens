@@ -1,0 +1,14 @@
+# Chaves secretas e configurações locais (MUITO IMPORTANTE!)
+.env
+
+# Ficheiros do Python e VS Code
+__pycache__/
+*.pyc
+.vscode/
+venv/
+
+# Pastas geradas pelo PyInstaller e Excel de saída
+build/
+dist/
+*.spec
+fichas_aph_consolidadas.xlsx
